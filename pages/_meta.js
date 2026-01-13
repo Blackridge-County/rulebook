@@ -1,5 +1,5 @@
 export default {
-  index: "Welcome to Zephyr Roleplay",
+  index: "Welcome to Blackridge County",
 
   '--': {
     type: 'separator',
@@ -16,7 +16,7 @@ export default {
   discord: {
     title: 'Discord',
     type: 'page',
-    href: 'https://discord.gg/wkrQTr8hsk',
+    href: 'https://discord.gg/something',
     newWindow: true
   },
 };

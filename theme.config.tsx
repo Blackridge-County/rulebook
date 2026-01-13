@@ -12,15 +12,15 @@ function useHead() {
 
   return (
     <>
-      <title>{title ? `${title} - Zephyr Roleplay` : 'Zephyr Roleplay'}</title>
+      <title>{title ? `${title} - Blackridge County` : 'Blackridge County'}</title>
       <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-      <link rel="icon" type="image/x-icon" href="https://r2.fivemanage.com/C7VNUJE5Bo07WayfJSyol/logo-new.png" />
+      <link rel="icon" type="image/x-icon" href="https://r2.fivemanage.com/z55N3UpqGll0XghMPbSfK/Blackridge-logo.png" />
       <meta httpEquiv="Content-Language" content="en" />
       <meta name="description" content={description} />
-      <meta property="og:title" content={title || 'Zephyr Roleplay'} />
+      <meta property="og:title" content={title || 'Blackridge County'} />
       <meta property="og:description" content={description} />
       <meta name="og:url" content={url} />
-      <meta property="og:image" content="https://r2.fivemanage.com/C7VNUJE5Bo07WayfJSyol/logo-new.png" />
+      <meta property="og:image" content="https://r2.fivemanage.com/z55N3UpqGll0XghMPbSfK/Blackridge-logo.png" />
       <meta name="theme-color" content="#7151b5" />
     </>
   );
@@ -40,16 +40,16 @@ const config = {
       style={{
         paddingLeft: '50px',
         lineHeight: '38px',
-        background: "url('https://r2.fivemanage.com/C7VNUJE5Bo07WayfJSyol/logo-new.png') no-repeat left",
+        background: "url('https://r2.fivemanage.com/z55N3UpqGll0XghMPbSfK/Blackridge-logo.png') no-repeat left",
         backgroundSize: '38px',
         fontWeight: 550,
       }}
     >
-      Zephyr Roleplay
+      Blackridge County
     </div>
   ),
   chat: {
-    link: 'https://discord.gg/zephyrrp',
+    link: 'https://discord.gg/something',
   },
   sidebar: {
     defaultMenuCollapseLevel: 1,
@@ -57,13 +57,13 @@ const config = {
   navigation: true,
   feedback: {
     content: null,
-    useLink: () => 'https://discord.gg/zephyrrp',
+    useLink: () => 'https://discord.gg/something',
   },
   editLink: {
     component: null,
   },
   footer: {
-    content: 'Zephyr Roleplay',
+    content: 'Blackridge County',
   },
 };
 
