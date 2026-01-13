@@ -7,8 +7,8 @@ function useHead() {
   // `useConfig` types may vary across theme versions; coerce to `any` to avoid
   // build-time type errors while keeping runtime behavior intact.
   const { frontMatter = {}, title } = useConfig() as any;
-  const url = `https://rules.zephyrroleplay.com${asPath}`;
-  const description = frontMatter.description || "Zephyr Roleplay";
+  const url = `https://rules.blackridgecounty.com${asPath}`;
+  const description = frontMatter.description || "Blackridge County Rulebook";
 
   return (
     <>
