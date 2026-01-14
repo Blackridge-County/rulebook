@@ -1,4 +1,4 @@
-# CHEATING, EXPLOITING & UNAUTHORIZED MODS
+# Cheating, Expoliting & Unauthorized Mods
 
 Any attempt to cheat, exploit, or modify the game in a way that provides an unfair advantage is strictly prohibited. Actions that compromise fairness, break roleplay immersion, or disrupt the server will result in disciplinary action, up to and including permanent bans.
 
