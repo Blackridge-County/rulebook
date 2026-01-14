@@ -1,9 +1,40 @@
-# 🔞 Sexual Harassment & Inappropriate Content
+# Character Creation & Clothing 
 
-Sexual harassment of any kind is strictly prohibited. This includes, but is not limited to, unwelcome sexual advances, inappropriate comments, suggestive remarks, explicit language, gestures, images, or any other conduct of a sexual nature that may make another individual feel uncomfortable, unsafe, or create a hostile, intimidating, or offensive environment.
+When creating your character and choosing their clothing, all players are expected to adhere to the following guidelines to maintain immersion and realism in our 1890s setting:
 
-Non-consensual sexual content is absolutely forbidden. This includes any form of roleplay, discussion, or depiction involving sexual assault, coercion, exploitation, or non-consensual sexual acts, including but not limited to rape or attempted rape roleplay, regardless of context or intent.
+***
+## Character Names
 
-Content involving suicide or self-harm is not permitted. This includes roleplay scenarios, discussions, encouragement, glorification, or depictions of suicide, self-inflicted injury, or any behavior intended to cause harm to oneself.
+* Names must fit the time period (1890s) and feel realistic for the era.
 
-Violations of this policy will result in immediate moderation action, which may include warnings, temporary suspension, or permanent removal from the community, depending on severity and frequency of the offense.
+* Avoid unusual, modern, or fantastical names that break immersion.
+
+* Racially inappropriate or offensive names are strictly prohibited.
+
+***
+
+## Appearance
+
+* Characters must have a realistic appearance. Exaggerated, “whacky,” or cartoonish features are not allowed.
+
+* Hair color must also reflect the era—natural shades only. Unnatural or vibrant colors are not permitted.
+
+***
+
+## Clothing & Outfits
+
+* All clothing must be era-appropriate in both style and color. Bright, neon colors are not allowed.
+
+* Outfits should reflect the roleplay your character intends to engage in. For example, a lawman, merchant, or outlaw should dress accordingly.
+
+* Clothing should help enhance immersion and make your character believable in the world, rather than standing out in an unrealistic or distracting way.
+
+***
+
+## General Guidelines
+
+* Always consider how your character’s look affects other players’ roleplay experiences.
+
+* When in doubt, err on the side of realism and historical accuracy.
+
+* Characters that break these rules may be required to adjust their appearance or risk administrative action.
