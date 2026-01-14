@@ -1,5 +1,8 @@
 export default {
   index: "Overview",
+  "general-rules": {
+    title: "📋 General Rules",
+  },
   "respect-staff-community": {
     title: "🫡 Respect for Staff & Community",
   },
