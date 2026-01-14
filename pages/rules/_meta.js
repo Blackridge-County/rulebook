@@ -1,8 +1,5 @@
 export default {
   index: "Overview",
-  "general-rules": {
-    title: "📋 General Rules",
-  },
   "respect-staff-community": {
     title: "🫡 Respect for Staff & Community",
   },
@@ -27,7 +24,7 @@ export default {
   "new-life-rule": {
     title: "🔁 New Life Rule (NLR)",
   },
-  "metagaming": {
+  metagaming: {
     title: "🧠 Metagaming",
   },
   "rdm-vdm": {
