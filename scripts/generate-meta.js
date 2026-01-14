@@ -52,7 +52,7 @@ function generateMeta() {
   });
 
   // Generate the _meta.js content
-  const metaContent = `export default ${JSON.stringify(metaObj, null, 2).replace(/"([^"]+)":/g, '$1:')};
+  const metaContent = `export default ${JSON.stringify(metaObj, null, 2).replace(/"([^"\-]+)":/g, '$1:')};
 `;
 
   // Write the file
