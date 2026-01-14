@@ -28,6 +28,8 @@ Robbery roleplay is intended to create tension, character development, and meani
 
 * Victims should not be harmed after a robbery unless they present a clear and immediate threat to the robber’s escape or safety.
 
+* The person robbing should not try and do things to bait a reaction out of the person being robbed so they can be killed. 
+
 ***
 
 ## Searching & Looting Rules
@@ -103,4 +105,62 @@ Chain robbing is prohibited.
 
 * Always prioritize storytelling, tension, and character development over profit.
 
+***
 
+# Robbery Limitations & Property Rules
+
+To ensure fairness and believable roleplay, specific limits apply to what can be taken during a robbery and how player property may be handled.
+
+***
+
+## Firearms
+
+* During a robbery, you may seize up to one longarm from a victim.
+
+* Victims are allowed to retain one protected sidearm at all times.
+
+* If a player is carrying two sidearms, only one may be taken.
+
+* If a player is carrying three or more sidearms, you must leave them with one sidearm you can take the rest.
+
+These limits exist to prevent excessive disarming and to maintain balance and realism during robbery scenes.
+
+***
+
+## Horses
+
+* Horses may be temporarily taken as part of a robbery or escape.
+
+* You may not force a player to permanently transfer ownership of their horse under any circumstances.
+
+* If your horse has been stolen, you may not repeatedly whistle or call it to break the robbery or escape RP.
+
+* Once a robbery has begun, players may not flee with their horse to prevent saddlebags from being searched.
+
+***
+
+## Wagons
+
+* Players may not intentionally move or flee their wagon to avoid it being robbed once engagement has occurred.
+
+* Wagon robberies should be quick and situational, taking place near where the encounter happened.
+
+* Transporting a wagon across the map to loot it later in a safer or more convenient location is not allowed.
+
+***
+
+## Searching & Inventory Interaction
+
+* Searching a player is a clear declaration of robbery and will be treated as such in all situations.
+
+* The only exception is checking a player’s identification card for roleplay purposes, such as law enforcement or identity verification RP.
+
+* Searching inventories should always be roleplay-driven and handled with proper interaction and dialogue.
+
+***
+
+## General Conduct
+
+* All property-related actions during robberies must be done in good faith and with immersion in mind.
+
+* Attempting to exploit mechanics or avoid consequences through technical behavior (menus, fleeing assets, or repeated calls) will be treated as rule violations.
