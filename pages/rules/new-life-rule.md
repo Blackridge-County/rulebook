@@ -18,7 +18,7 @@ The New Life Rule (NLR) governs how memory and character behavior are handled af
 
 ***NLR does not automatically apply in the following situations:***
 
-* If you are revived by another player or transported to an in-character medical facility, you may retain memory of the incident unless you choose otherwise.
+* If you are revived by another player (Doctor) or transported to an in-character medical facility, you may retain memory of the incident unless you choose otherwise.
 
 * A conscious witness who remained present for the entire encounter may remind your character of what occurred through roleplay.
 
