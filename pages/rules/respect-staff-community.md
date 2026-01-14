@@ -10,4 +10,4 @@ When providing players with a genuine realistic roleplaying experience, Zephyr R
 
 Players should always prefer words over weapons for greater roleplay, even though it can be simple to roleplay as the city's worst criminal.
 
-All players must be at least 16 years old to access and play Zephyr RP.
+
