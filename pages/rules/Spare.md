@@ -1,5 +1,3 @@
-# 🚗 Vehicle Death Match (VDM)
+# General Rules
 
-You are strictly not allowed to run players over or ram them off their bike (If unintentional be sure to provide video evidence)
-\
-If a player is shooting you from a bike you are allowed to defend yourself with your vehicle.
+* All players must be at least 18 years old to access and play Blackridge County.
