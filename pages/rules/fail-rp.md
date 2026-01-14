@@ -1,4 +1,4 @@
-# FEAR ROLEPLAY (FearRP) & NOT VALUING LIFE (NVL)
+# Fear Roleplay (FearRP) & Not Valuing Life (NVL)
 
 Your character has a single life and must behave as though that life matters. Regardless of game mechanics or respawns, your character should consistently act in a way that reflects self-preservation, caution, and fear of serious harm or death.
 
