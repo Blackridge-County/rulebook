@@ -107,7 +107,7 @@ Chain robbing is prohibited.
 
 ***
 
-# ‼️ Robbery Limitations & Property Rules
+# 🚫 Robbery Limitations & Property Rules
 
 To ensure fairness and believable roleplay, specific limits apply to what can be taken during a robbery and how player property may be handled.
 
