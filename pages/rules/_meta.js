@@ -39,6 +39,9 @@ export default {
   "general-hostile-rules": {
     title: "⚔️ General Hostile Rules",
   },
+  immersion: {
+    title: "🎭 Immersion Rules",
+  },
   "spare-1": {
     title: "📄 Spare 1",
   },

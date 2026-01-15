@@ -27,17 +27,27 @@ function generateMeta() {
   const rulesDir = path.join(process.cwd(), 'pages', 'rules');
   const metaPath = path.join(rulesDir, '_meta.js');
 
-  // Read all files in the rules directory
-  const files = fs.readdirSync(rulesDir);
+  // Read all files and directories in the rules directory
+  const items = fs.readdirSync(rulesDir);
 
-  // Filter for .md files and remove extensions
-  const mdFiles = files
-    .filter(file => file.endsWith('.md'))
+  // Separate files and directories
+  const mdFiles = items
+    .filter(item => {
+      const itemPath = path.join(rulesDir, item);
+      return fs.statSync(itemPath).isFile() && item.endsWith('.md');
+    })
     .map(file => file.replace('.md', ''));
+
+  const directories = items
+    .filter(item => {
+      const itemPath = path.join(rulesDir, item);
+      return fs.statSync(itemPath).isDirectory() && !item.startsWith('_');
+    });
 
   // Build meta object
   const metaObj = {};
 
+  // Add .md files
   mdFiles.forEach(file => {
     const filePath = path.join(rulesDir, `${file}.md`);
     const title = extractTitleFromFile(filePath);
@@ -49,6 +59,21 @@ function generateMeta() {
         title: title
       };
     }
+  });
+
+  // Add directories
+  directories.forEach(dir => {
+    const indexPath = path.join(rulesDir, dir, 'index.md');
+    let title = dir.charAt(0).toUpperCase() + dir.slice(1); // Default to capitalized folder name
+
+    // Try to extract title from index.md if it exists
+    if (fs.existsSync(indexPath)) {
+      title = extractTitleFromFile(indexPath);
+    }
+
+    metaObj[dir] = {
+      title: title
+    };
   });
 
   // Generate the _meta.js content
