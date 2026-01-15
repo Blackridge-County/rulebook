@@ -73,8 +73,7 @@ function generateMeta() {
 
     metaObj[dir] = {
       title: title,
-      type: 'page',
-      href: `/rules/${dir}/`
+      href: `/rules/${dir}`
     };
   });
 
