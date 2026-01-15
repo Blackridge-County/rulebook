@@ -31,6 +31,7 @@ const config = {
     hue: 258,
     saturation: 50,
   },
+  defaultTheme: 'dark',
   head: useHead,
   backgroundColor: {
     dark: '28, 28, 28',
