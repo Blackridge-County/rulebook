@@ -1,4 +1,4 @@
-# Fear Roleplay (FearRP) & Not Valuing Life (NVL)
+# ❌ Fear Roleplay (FearRP) & Not Valuing Life (NVL)
 
 Your character has a single life and must behave as though that life matters. Regardless of game mechanics or respawns, your character should consistently act in a way that reflects self-preservation, caution, and fear of serious harm or death.
 
@@ -6,7 +6,7 @@ FearRP is a core expectation of roleplay on Blackridge County.
 
 ***
 
-## Foundational Expectations
+## 📗 Foundational Expectations
 
 ***Players are required to:***
 
@@ -22,7 +22,7 @@ Reckless behavior without reasonable fear or concern for consequences may be con
 
 ***
 
-## Expected Behavior
+## 📘 Expected Behavior
 
 ***Players must:***
 
@@ -40,7 +40,7 @@ Reckless behavior without reasonable fear or concern for consequences may be con
 
 ***
 
-## Situational Guidance
+## 📙 Situational Guidance
 
 * In limited engagements (such as 1v1 or 2v1), self-defense may be appropriate only when a realistic opportunity arises (e.g., the aggressor is distracted, disarmed, or lowers their weapon).
 
@@ -50,7 +50,7 @@ Reckless behavior without reasonable fear or concern for consequences may be con
 
 ***
 
-## Prohibited Conduct
+## ⛔ Prohibited Conduct
 
 ***The following behaviors are not allowed:***
 
@@ -62,7 +62,7 @@ Reckless behavior without reasonable fear or concern for consequences may be con
 
 ***
 
-## Important Note
+## ❗ Important Note
 
 FearRP exists to maintain realism and meaningful tension in roleplay. Players are expected to act in good faith and prioritize immersion over advantage.
 
