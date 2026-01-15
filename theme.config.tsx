@@ -80,6 +80,8 @@ function useHead() {
             right: 0;
             bottom: 0;
             background-image:
+              /* Parchment texture overlay */
+              url('/images/parchment.png'),
               /* Paper grain texture */
               radial-gradient(circle at 25% 25%, rgba(193, 168, 124, 0.08) 1px, transparent 1px),
               radial-gradient(circle at 75% 75%, rgba(193, 168, 124, 0.06) 0.5px, transparent 0.5px),
@@ -92,12 +94,15 @@ function useHead() {
               radial-gradient(ellipse at 80% 20%, rgba(170, 140, 110, 0.1) 0px, rgba(170, 140, 110, 0.05) 2px, transparent 4px),
               radial-gradient(ellipse at 20% 80%, rgba(160, 130, 100, 0.08) 0px, rgba(160, 130, 100, 0.03) 3px, transparent 6px);
             background-size:
+              cover,
               15px 15px, 8px 8px, 25px 25px, 12px 12px,
               3px 3px, 4px 4px,
               60px 40px, 80px 50px;
+            background-repeat: no-repeat, repeat, repeat, repeat, repeat, repeat, repeat, repeat, repeat;
+            background-blend-mode: multiply, normal, normal, normal, normal, normal, normal, normal, normal;
             pointer-events: none;
             border-radius: 6px;
-            opacity: 0.7;
+            opacity: 0.3;
           }
         `
       }} />
