@@ -1,10 +1,10 @@
-# Robbing
+# 💎 Robbing
 
 Robbery roleplay is intended to create tension, character development, and meaningful storylines, not to function as a quick or repetitive way to gain money or items. All robberies must be conducted with immersion, effort, and fairness in mind.
 
 ***
 
-## Purpose & Intent
+## 💭 Purpose & Intent
 
 * The primary goal of any robbery must be story-driven roleplay, not loot-focused behavior.
 
@@ -12,7 +12,7 @@ Robbery roleplay is intended to create tension, character development, and meani
 
 * Low-effort robberies that exist solely to take items or cash may result in administrative action.
 
-## Hostility & Engagement
+## 🔪 Hostility & Engagement
 
 * Hostile intent must be clearly shown before initiating a robbery (e.g., drawing a weapon, issuing commands, verbal threats).
 
@@ -22,7 +22,7 @@ Robbery roleplay is intended to create tension, character development, and meani
 
 ***
 
-## Killing vs. Robbing
+## 💀 Killing vs. Robbing
 
 * You may not rob and kill the same player. You must choose one or the other.
 
@@ -32,7 +32,7 @@ Robbery roleplay is intended to create tension, character development, and meani
 
 ***
 
-## Searching & Looting Rules
+## 💰 Searching & Looting Rules
 
 You may only rob one source per victim during a robbery.
 
@@ -44,7 +44,7 @@ Example: If you search saddlebags, you may not also search the player’s invent
 
 ***
 
-## Chain Robbing & Cooldowns
+## 🕑 Chain Robbing & Cooldowns
 
 Chain robbing is prohibited.
 
@@ -56,7 +56,7 @@ Chain robbing is prohibited.
 
 ***
 
-## Hostages & Group Robberies
+## 👥 Hostages & Group Robberies
 
 * You may rob a player you are actively using as a hostage during a larger robbery (such as a bank or store robbery).
 
@@ -64,7 +64,7 @@ Chain robbing is prohibited.
 
 ***
 
-## Restrictions & Fair Play
+## ❌ Restrictions & Fair Play
 
 * You may not rob a player while they are in a menu, storefront, or otherwise unable to respond.
 
@@ -72,7 +72,7 @@ Chain robbing is prohibited.
 
 ***
 
-## Roleplay Quality Standards
+## 📗 Roleplay Quality Standards
 
 * Robbery RP must include meaningful dialogue and interaction.
 
@@ -82,7 +82,7 @@ Chain robbing is prohibited.
 
 ***
 
-## Reputation & Consequences
+## 👮 Reputation & Consequences
 
 * ***Robbery has lasting consequences. If your character becomes known as a robber, outlaw, or highwayman, this reputation will shape how others treat you in roleplay.***
 
@@ -98,7 +98,7 @@ Chain robbing is prohibited.
 
 ***
 
-## Final Notes
+## 📜 Final Notes
 
 * Robbery roleplay that feels repetitive, rushed, or purely mechanical undermines immersion and may be restricted or punished.
 
@@ -107,13 +107,13 @@ Chain robbing is prohibited.
 
 ***
 
-# Robbery Limitations & Property Rules
+# ‼️ Robbery Limitations & Property Rules
 
 To ensure fairness and believable roleplay, specific limits apply to what can be taken during a robbery and how player property may be handled.
 
 ***
 
-## Firearms
+## 🔫 Firearms
 
 * During a robbery, you may seize up to one longarm from a victim.
 
@@ -127,7 +127,7 @@ These limits exist to prevent excessive disarming and to maintain balance and re
 
 ***
 
-## Horses
+## 🏇 Horses
 
 * Horses may be temporarily taken as part of a robbery or escape.
 
@@ -139,7 +139,7 @@ These limits exist to prevent excessive disarming and to maintain balance and re
 
 ***
 
-## Wagons
+## 🚚 Wagons
 
 * Players may not intentionally move or flee their wagon to avoid it being robbed once engagement has occurred.
 
@@ -149,7 +149,7 @@ These limits exist to prevent excessive disarming and to maintain balance and re
 
 ***
 
-## Searching & Inventory Interaction
+## 🔍 Searching & Inventory Interaction
 
 * Searching a player is a clear declaration of robbery and will be treated as such in all situations.
 
@@ -159,7 +159,7 @@ These limits exist to prevent excessive disarming and to maintain balance and re
 
 ***
 
-## General Conduct
+## 📕 General Conduct
 
 * All property-related actions during robberies must be done in good faith and with immersion in mind.
 
