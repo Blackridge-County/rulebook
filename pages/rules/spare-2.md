@@ -1,10 +1,10 @@
-# Immersion 
+# 💭 Immersion 
 
 Maintaining immersion is key to ensuring a realistic and engaging experience for everyone in our 1890s world. All players are expected to follow these guidelines:
 
 ***
 
-## Stay In-Character (IC)
+## ✅ Stay In-Character (IC)
 
 * Your character must always act, speak, and react in a manner consistent with their background, personality, and the 1890s setting.
 
@@ -16,7 +16,7 @@ Maintaining immersion is key to ensuring a realistic and engaging experience for
 
 ***
 
-## Out-of-Character (OOC) Communication
+## ❌ Out-of-Character (OOC) Communication
 
 * Avoid talking about out-of-county events or using OOC information in-character. Your character cannot know about things outside the county unless they are naturally aware of them.
 
@@ -24,7 +24,7 @@ Maintaining immersion is key to ensuring a realistic and engaging experience for
 
 ***
 
-## Character Creation & Appearance
+## 👘 Character Creation & Appearance
 
 * All rules regarding character creation and clothing must be followed. This includes:
 
@@ -38,7 +38,7 @@ Maintaining immersion is key to ensuring a realistic and engaging experience for
 
 ***
 
-## Knowledge and Setting Awareness
+## 📕 Knowledge and Setting Awareness
 
 * Do not reference modern technology, famous people, or events that someone in the 1890s would not know.
 
@@ -48,7 +48,7 @@ Maintaining immersion is key to ensuring a realistic and engaging experience for
 
 ***
 
-## Roleplay Checks
+## 🔍 Roleplay Checks
 
 * You may NOT roleplay check other characters to verify their intentions, story, or authenticity, but this must be done in-character and cannot be a form of metagaming.
 
@@ -56,7 +56,7 @@ Maintaining immersion is key to ensuring a realistic and engaging experience for
 
 ***
 
-## General Guidelines
+## 📜 General Guidelines
 
 * Always prioritize immersion in every interaction. Ask yourself: “Would someone in 1890 actually say or do this?”
 
@@ -66,13 +66,13 @@ Maintaining immersion is key to ensuring a realistic and engaging experience for
 
 ***
 
-# Medical Roleplay 
+# 💊 Medical Roleplay 
 
 Proper medical roleplay is essential to maintaining immersion and realism in our server. All players are expected to follow these rules when injured, being treated, or interacting with medical scenarios:
 
 ***
 
-## Roleplay Your Injuries
+## 😖 Roleplay Your Injuries
 
 * React realistically to injuries. If your character is shot, stabbed, or otherwise hurt, you must act as someone in that situation would—showing pain, struggling, or being physically affected.
 
@@ -80,7 +80,7 @@ Proper medical roleplay is essential to maintaining immersion and realism in our
 
 ***
 
-## React to Medical Treatment
+## 😭 React to Medical Treatment
 
 * When receiving medical attention, you must roleplay reactions to procedures such as injections, broken bones being set, or other treatments. Flinching, wincing, or struggling when appropriate adds to realism.
 
@@ -88,7 +88,7 @@ Proper medical roleplay is essential to maintaining immersion and realism in our
 
 ***
 
-## Communication Restrictions
+## ❗ Communication Restrictions
 
 * You may not speak in-character unless addressing a doctor, medic, or person providing treatment. Any attempt to speak to others while incapacitated breaks immersion.
 
@@ -96,7 +96,7 @@ Proper medical roleplay is essential to maintaining immersion and realism in our
 
 ***
 
-## Using /me for Immersion
+## 💭 Using /me for Immersion
 
 * Always use /me commands to enhance medical roleplay. Examples include:
 
@@ -110,7 +110,7 @@ Your actions should reflect the severity of your injuries and the treatment bein
 
 ***
 
-## General Guidelines
+## 📜 General Guidelines
 
 * Immersion is key. Acting as if you are fine while critically injured is not allowed.
 
