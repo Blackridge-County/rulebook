@@ -1,5 +1,5 @@
 export default {
-  index: "Overview",
+  index: { title: "Overview" },
   "general-rules": {
     title: "📋 General Rules",
   },

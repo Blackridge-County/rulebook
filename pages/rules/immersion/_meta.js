@@ -1,5 +1,7 @@
 export default {
-  index: "Overview",
+  index: {
+    title: "Overview",
+  },
   "medical-roleplay": {
     title: "🏥 Medical Roleplay",
   },
