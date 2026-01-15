@@ -1,10 +1,10 @@
-# Cheating, Expoliting & Unauthorized Mods
+# ⚠️ Cheating, Expoliting & Unauthorized Mods
 
 Any attempt to cheat, exploit, or modify the game in a way that provides an unfair advantage is strictly prohibited. Actions that compromise fairness, break roleplay immersion, or disrupt the server will result in disciplinary action, up to and including permanent bans.
 
 ***
 
-## Exploits & Unintended Mechanics
+## 🚫 Exploits & Unintended Mechanics
 
 ***Players may not take advantage of game bugs, glitches, or unintended features to gain benefits or bypass normal gameplay rules. This applies to all forms of play, including:***
 
@@ -22,7 +22,7 @@ Any attempt to cheat, exploit, or modify the game in a way that provides an unfa
 
 ***
 
-## Cheating & External Programs
+## 👎 Cheating & External Programs
 
 * The use of unauthorized software or tools to gain a gameplay advantage is strictly forbidden. This includes, but is not limited to:
 
@@ -40,7 +40,7 @@ Any attempt to cheat, exploit, or modify the game in a way that provides an unfa
 
 ***
 
-## Macros & Automation
+## ⛔ Macros & Automation
 
 * Macros are only allowed for emotes, /me commands, or other minor roleplay conveniences.
 
@@ -50,7 +50,7 @@ Any attempt to cheat, exploit, or modify the game in a way that provides an unfa
 
 ***
 
-## Modifications
+## 🔨 Modifications
 
 * Players may not use mods that provide a gameplay advantage, including:
 
@@ -66,7 +66,7 @@ Any attempt to cheat, exploit, or modify the game in a way that provides an unfa
 
 ***
 
-## Economic Exploitation
+##  💵 Economic Exploitation
 
 * Abusing in-game systems to gain money, resources, or items faster than intended is prohibited. Examples include, but are not limited to:
 
@@ -82,7 +82,7 @@ Any attempt to cheat, exploit, or modify the game in a way that provides an unfa
 
 ***
 
-## Bug Reporting
+## 🐛 Bug Reporting
 
 * Any discovered bugs, exploits, or unintended mechanics must be reported to staff immediately.
 
@@ -92,7 +92,7 @@ Any attempt to cheat, exploit, or modify the game in a way that provides an unfa
 
 ***
 
-## Enforcement
+## 💥 Enforcement
 
 ***Violations may result in:***
 
