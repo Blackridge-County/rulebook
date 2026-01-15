@@ -80,12 +80,12 @@ function useHead() {
             background-image:
               /* Parchment texture overlay */
               url('/images/parchment.png');
-            background-size: auto;
+            background-size: 400px 300px;
             background-repeat: repeat;
             background-blend-mode: multiply;
             pointer-events: none;
             border-radius: 6px;
-            opacity: 0.2;
+            opacity: 0.15;
           }
         `
       }} />
