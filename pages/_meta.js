@@ -7,10 +7,12 @@ export default {
   },
 
   "rules": {
-    title: "📋 Rules & Guidelines"
+    title: "📋 Rules & Guidelines",
+    href: "/rules",
   },
   "gangs": {
-    title: "🏴 Gang Rules"
+    title: "🏴 Gang Rules",
+    href: "/gangs",
   },
 
   discord: {

@@ -72,18 +72,8 @@ function generateMeta() {
     }
 
     metaObj[dir] = {
-      title: title
-    };
-  });
-
-  // Generate the _meta.js content
-  const metaContent = `export default ${JSON.stringify(metaObj, null, 2).replace(/"([^"\-]+)":/g, '$1:')};
-`;
-
-  // Write the file
-  fs.writeFileSync(metaPath, metaContent);
-  console.log('Generated _meta.js for rules directory');
-}
+      title: title,
+      href: `/rules/${dir}`
 
 // Run if called directly
 if (require.main === module) {

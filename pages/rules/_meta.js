@@ -41,6 +41,7 @@ export default {
   },
   immersion: {
     title: "🎭 Immersion Rules",
+    href: "/rules/immersion",
   },
   "spare-1": {
     title: "📄 Spare 1",
