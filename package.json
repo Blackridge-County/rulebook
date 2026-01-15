@@ -3,9 +3,10 @@
   "version": "0.0.1",
   "description": "Nextra docs template",
   "scripts": {
-    "dev": "next dev -p 3009",
-    "build": "next build",
-    "start": "next start"
+    "dev": "node scripts/generate-meta.js && next dev -p 3009",
+    "build": "node scripts/generate-meta.js && next build",
+    "start": "next start",
+    "generate-meta": "node scripts/generate-meta.js"
   },
   "repository": {
     "type": "git",

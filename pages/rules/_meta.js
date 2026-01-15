@@ -1,5 +1,8 @@
 export default {
   index: "Overview",
+  "general-rules": {
+    title: "📋 General Rules",
+  },
   "respect-staff-community": {
     title: "🫡 Respect for Staff & Community",
   },
@@ -12,7 +15,7 @@ export default {
   cheating: {
     title: "🕵️‍♂️ Cheating",
   },
-  "sexual-harassment": {
+  "sexual-harassment-inappropriate-content": {
     title: "🔞 Sexual Harassment & Inappropriate Content",
   },
   "microphone-usage": {
@@ -24,19 +27,28 @@ export default {
   "new-life-rule": {
     title: "🔁 New Life Rule (NLR)",
   },
-  "metagaming": {
+  metagaming: {
     title: "🧠 Metagaming",
   },
-  "random-death-match": {
-    title: "💀 Random Death Match (RDM)",
-  },
-  "vehicle-death-match": {
-    title: "🚗 Vehicle Death Match (VDM)",
+  "rdm-vdm": {
+    title: "💀 Random Death Match & Vehicle Death Match",
   },
   "power-gaming": {
     title: "🦾 Power Gaming",
   },
   "general-hostile-rules": {
     title: "⚔️ General Hostile Rules",
+  },
+  "spare-1": {
+    title: "📄 Spare 1",
+  },
+  "spare-2": {
+    title: "📄 Spare 2",
+  },
+  "spare-3": {
+    title: "📄 Spare 3",
+  },
+  "spare-4": {
+    title: "📄 Spare 4",
   },
 };
