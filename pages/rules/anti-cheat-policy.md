@@ -2,7 +2,7 @@
 
 ### 🔍 Our Commitment
 
-Zephyr is built on fair play, transparency, and trust. We’re here to keep cheaters, exploiters, and IRL traders out—without invading your privacy.
+Blackridge County is built on fair play, transparency, and trust. We’re here to keep cheaters, exploiters, and IRL traders out—without invading your privacy.
 
 ### ⚙️ How Our Anti-Cheat Works
 
@@ -69,8 +69,6 @@ We may consider prior bans or public records only when:
 
 ### Think we got it wrong? File an appeal:
 
-Where: [Support Ticket Channel](https://discord.com/channels/1317664006768558142/1317674367542493185)
-
 Include:
 
 - Your in-game name
@@ -82,7 +80,7 @@ Include:
 ### ❌ What We Don’t Do
 
 We will never:
-- Use spyware or remote access
+- Use spyware 
 - Ask you to download anything that we wouldn't download ourselves
 - Ban based solely on another server’s records
 
@@ -90,7 +88,7 @@ We will never:
 
 We earn trust by being upfront—not just saying “trust us.”
 
-### 🧾 By Playing on  Zephyr, You Agree To:
+### 🧾 By Playing on  Blackridge County, You Agree To:
 
 - Respect fair play and server integrity
 
@@ -102,12 +100,8 @@ We earn trust by being upfront—not just saying “trust us.”
 
 ### 🗣️ Reporting Suspicious Behavior
 
-📌 In-game:
-
-/report \[playerID] \[reason]
-
-📌 Discord Tickets: [Support Ticket Channel](https://discord.com/channels/1317664006768558142/1317674367542493185)
-
+📌 Support Pannel
+ 
 🚫 No public callouts or witch hunts—let staff handle it professionally.
 
 ### 👮 Final Say
