@@ -55,7 +55,6 @@ function useHead() {
           }
 
           html:not([data-theme="dark"]) main,
-          html:not([data-theme="dark"]) article,
           html:not([data-theme="dark"]) .nx-prose {
             background: linear-gradient(to bottom, #F1E9D2 0%, #EDE3C6 25%, #F1E9D2 50%, #E9DFC0 75%, #F1E9D2 100%);
             padding: 2.5rem;
@@ -71,8 +70,7 @@ function useHead() {
             position: relative;
           }
 
-          html:not([data-theme="dark"]) main::before,
-          html:not([data-theme="dark"]) article::before {
+          html:not([data-theme="dark"]) main::before {
             content: '';
             position: absolute;
             top: 0;
@@ -81,28 +79,13 @@ function useHead() {
             bottom: 0;
             background-image:
               /* Parchment texture overlay */
-              url('/images/parchment.png'),
-              /* Paper grain texture */
-              radial-gradient(circle at 25% 25%, rgba(193, 168, 124, 0.08) 1px, transparent 1px),
-              radial-gradient(circle at 75% 75%, rgba(193, 168, 124, 0.06) 0.5px, transparent 0.5px),
-              radial-gradient(circle at 50% 10%, rgba(180, 150, 120, 0.04) 1.5px, transparent 1.5px),
-              radial-gradient(circle at 10% 90%, rgba(170, 140, 110, 0.05) 1px, transparent 1px),
-              /* Paper fibers */
-              linear-gradient(45deg, transparent 48%, rgba(193, 168, 124, 0.03) 49%, rgba(193, 168, 124, 0.03) 51%, transparent 52%),
-              linear-gradient(-45deg, transparent 48%, rgba(180, 150, 120, 0.02) 49%, rgba(180, 150, 120, 0.02) 51%, transparent 52%),
-              /* Subtle aging spots */
-              radial-gradient(ellipse at 80% 20%, rgba(170, 140, 110, 0.1) 0px, rgba(170, 140, 110, 0.05) 2px, transparent 4px),
-              radial-gradient(ellipse at 20% 80%, rgba(160, 130, 100, 0.08) 0px, rgba(160, 130, 100, 0.03) 3px, transparent 6px);
-            background-size:
-              cover,
-              15px 15px, 8px 8px, 25px 25px, 12px 12px,
-              3px 3px, 4px 4px,
-              60px 40px, 80px 50px;
-            background-repeat: no-repeat, repeat, repeat, repeat, repeat, repeat, repeat, repeat, repeat;
-            background-blend-mode: multiply, normal, normal, normal, normal, normal, normal, normal, normal;
+              url('/images/parchment.png');
+            background-size: auto;
+            background-repeat: repeat;
+            background-blend-mode: multiply;
             pointer-events: none;
             border-radius: 6px;
-            opacity: 0.3;
+            opacity: 0.2;
           }
         `
       }} />
