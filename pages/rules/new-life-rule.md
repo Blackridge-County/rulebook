@@ -2,7 +2,7 @@
 
 The New Life Rule (NLR) governs how memory and character behavior are handled after a character has been incapacitated. When NLR is triggered, your character may experience partial or complete memory loss of the events that led to their incapacitation. This rule exists to protect immersion, fairness, and ongoing roleplay.
 
-## When NLR Takes Effect
+## ✅ When NLR Takes Effect
 
 ***NLR applies under the following circumstances:***
 
@@ -14,7 +14,7 @@ The New Life Rule (NLR) governs how memory and character behavior are handled af
 
 ***
 
-## When NLR Does Not Take Effect
+## ❌ When NLR Does Not Take Effect
 
 ***NLR does not automatically apply in the following situations:***
 
@@ -24,7 +24,7 @@ The New Life Rule (NLR) governs how memory and character behavior are handled af
 
 ***
 
-## Re-Engagement Restrictions
+## ↩️ Re-Engagement Restrictions
 
 ***After being revived or respawning, players must not:***
 
@@ -38,7 +38,7 @@ The New Life Rule (NLR) governs how memory and character behavior are handled af
 
 ***
 
-## Body Interaction & Scene Control
+## 👤 Body Interaction & Scene Control
 
 * Camping a downed player’s body to block medical intervention or control outcomes is prohibited.
 
@@ -46,7 +46,7 @@ The New Life Rule (NLR) governs how memory and character behavior are handled af
 
 ***
 
-##Injury Clarification
+## 💉 Injury Clarification
 
 * Targeting or roleplaying head wounds does not automatically result in memory loss. Severe head injuries may be treated in-character as serious neck or cranial trauma, but do not inherently erase memory.
 
@@ -54,13 +54,13 @@ The New Life Rule (NLR) governs how memory and character behavior are handled af
 
 ***
 
-## Special Roleplay Conditions
+## ✨ Special Roleplay Conditions
 
 * Characters affected by supernatural influence, such as vampiric mesmerization, are encouraged to roleplay confusion, fragmented memory, or hazy recollection rather than total awareness.
 
 ***
 
-## Final Notes
+## 📜 Final Notes
 
 NLR is designed to encourage meaningful consequences while allowing roleplay to continue organically. Players are expected to act in good faith and prioritize storytelling over advantage.
 
