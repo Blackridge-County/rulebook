@@ -1,7 +1,7 @@
-# Blackridge County RP Guide & Reporting Procedures
+# 📝 Blackridge County RP Guide & Reporting Procedures
 
 
- ## Handling Problems & Conflicts
+ ## 📗 Handling Problems & Conflicts
 
 Whenever possible, resolve disputes in-character. This keeps the story immersive and avoids unnecessary rule reports.
 
@@ -11,7 +11,7 @@ Whenever possible, resolve disputes in-character. This keeps the story immersive
 
 ***
 
-## Reporting Incidents
+## 📤 Reporting Incidents
 
 Reports should only be made after an RP scene ends, unless the situation is extremely dangerous (e.g., cheating, harassment, sexual misconduct).
 
@@ -37,7 +37,7 @@ All tickets are reviewed at staff discretion, based on how the event affects rol
 
 ***
 
-## Comp Claims
+## 🎁 Comp Claims
 
 If a bug or rule violation causes you to lose items or currency, you may be eligible for compensation.
 
@@ -49,7 +49,7 @@ If a bug or rule violation causes you to lose items or currency, you may be elig
 
 ***
 
-## What Not to Report
+## ❌ What Not to Report
 
 * Minor RP disagreements or confusion about rules.
 
@@ -59,7 +59,7 @@ Tip: If something feels unclear, ask staff before escalating. Not every conflict
 
 ***
  
- ## Staying in Character
+ ## 👤 Staying in Character
 
 Maintaining immersion is essential. Do not break RP to address rule violations, confront other players, or report bugs.
 
