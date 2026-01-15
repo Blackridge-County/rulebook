@@ -1,9 +1,9 @@
-# Character Creation & Clothing 
+# 🎩 Character Creation & Clothing 
 
 When creating your character and choosing their clothing, all players are expected to adhere to the following guidelines to maintain immersion and realism in our 1890s setting:
 
 ***
-## Character Names
+## 😊 Character Names
 
 * Names must fit the time period (1890s) and feel realistic for the era.
 
@@ -13,7 +13,7 @@ When creating your character and choosing their clothing, all players are expect
 
 ***
 
-## Appearance
+## 💁 Appearance
 
 * Characters must have a realistic appearance. Exaggerated, “whacky,” or cartoonish features are not allowed.
 
@@ -21,7 +21,7 @@ When creating your character and choosing their clothing, all players are expect
 
 ***
 
-## Clothing & Outfits
+## 👘 Clothing & Outfits
 
 * All clothing must be era-appropriate in both style and color. Bright, neon colors are not allowed.
 
@@ -31,7 +31,7 @@ When creating your character and choosing their clothing, all players are expect
 
 ***
 
-## General Guidelines
+## 📜 General Guidelines
 
 * Always consider how your character’s look affects other players’ roleplay experiences.
 
