@@ -1,4 +1,4 @@
-# Random Death Match (RDM)
+# 💀 Random Death Match (RDM)
 
 Random Deathmatching (RDM) is strictly prohibited. Killing another player without clear, legitimate roleplay intent, proper escalation, or meaningful in-character interaction is not allowed under any circumstances.
 
@@ -8,7 +8,7 @@ Any killing carried out without sufficient roleplay context, escalation, or decl
 
 ***
 
-# Vehicle Death Match (VDM)
+# 🏇  Vehicle Death Match (VDM)
 
 VDM is defined as attacking, downing, or killing another player using a horse, wagon, or any vehicle without clear and sufficient roleplay leading up to the action.
 
