@@ -4,7 +4,7 @@ Metagaming occurs when a player uses out-of-character (OOC) information—anythi
 
 ***
 
-## General Principles
+## 📗 General Principles
 
 * Characters may only act on information they could reasonably know in-character.
 
@@ -14,7 +14,7 @@ Metagaming occurs when a player uses out-of-character (OOC) information—anythi
 
 ***
 
-## Streams & Live Content
+## 🎥 Streams & Live Content
 
 * Using live stream content to influence in-game actions (such as player positions, upcoming events, or loot locations) is not allowed.
 
@@ -24,7 +24,7 @@ Metagaming occurs when a player uses out-of-character (OOC) information—anythi
 
 ***
 
-## Voice Channels & Communication
+## 🔉 Voice Channels & Communication
 
 * Being in an unmuted or undeafened voice call (Discord, Teamspeak, etc.) while actively roleplaying is prohibited if information could influence in-character decisions.
 
@@ -34,7 +34,7 @@ Metagaming occurs when a player uses out-of-character (OOC) information—anythi
 
 ***
 
-##Other Characters & Information Sharing
+## 👤 Other Characters & Information Sharing
 
 * You may not use knowledge from one character to benefit another unless it is something they would realistically know.
 
@@ -44,7 +44,7 @@ Metagaming occurs when a player uses out-of-character (OOC) information—anythi
 
 ***
 
-## Masked Players & Identification
+## 😷 Masked Players & Identification
 
 * Identifying masked or disguised players solely by voice (“Voice ID”) is not allowed.
 
@@ -58,7 +58,7 @@ Metagaming occurs when a player uses out-of-character (OOC) information—anythi
 
 ***
 
-## Third-Party Sources
+## 💻 Third-Party Sources
 
 * Using information from Discord (server channels, private chats), forums, or other external sources to influence in-character decisions is forbidden.
 
@@ -66,7 +66,7 @@ Metagaming occurs when a player uses out-of-character (OOC) information—anythi
 
 ***
 
-## Summary
+## 📜 Summary
 
 * Only act on what your character could reasonably know in the moment.
 
