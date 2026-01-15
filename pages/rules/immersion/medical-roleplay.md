@@ -1,4 +1,4 @@
-# 💊 Medical Roleplay
+# 💊 Character interactions with Doctors & Medical Roleplay
 
 Proper medical roleplay is essential to maintaining immersion and realism in our server. All players are expected to follow these rules when injured, being treated, or interacting with medical scenarios:
 
