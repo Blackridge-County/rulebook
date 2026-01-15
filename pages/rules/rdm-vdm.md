@@ -1,4 +1,7 @@
-# 💀 Random Death Match (RDM)
+# 💀 Random Death Match (RDM) & Vehicle death Match (VDM)
+***
+
+# Random Death Match (RDM) 
 
 Random Deathmatching (RDM) is strictly prohibited. Killing another player without clear, legitimate roleplay intent, proper escalation, or meaningful in-character interaction is not allowed under any circumstances.
 
