@@ -1,4 +1,7 @@
 export default {
+  immersion: {
+    title: "🎭 Immersion Rules",
+  },
   "medical-roleplay": {
     title: "🏥 Medical Roleplay",
   },
