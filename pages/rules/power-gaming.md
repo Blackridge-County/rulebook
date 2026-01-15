@@ -6,7 +6,7 @@ All players are expected to roleplay in a way that supports immersion, realism, 
 
 ***
 
-## Prohibited Powergaming Behavior
+## ❌ Prohibited Powergaming Behavior
 
 * The actions listed below are considered powergaming. This list is not exhaustive:
 
@@ -42,7 +42,7 @@ All players are expected to roleplay in a way that supports immersion, realism, 
 
 ***
 
-## Player Responsibility
+## ❗ Player Responsibility
 
 Players must allow situations to unfold naturally and provide others with a fair chance to react. Roleplay should never be forced, rushed, or manipulated to guarantee a specific outcome.
 
