@@ -8,10 +8,12 @@ export default {
 
   "rules": {
     title: "📋 Rules & Guidelines",
+    type: 'page',
     href: "/rules",
   },
   "gangs": {
     title: "🏴 Gang Rules",
+    type: 'page',
     href: "/gangs",
   },
 
