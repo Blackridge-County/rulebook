@@ -28,6 +28,12 @@ function useHead() {
             box-shadow: 0 2px 4px rgba(193, 168, 124, 0.2);
           }
 
+          html:not([data-theme="dark"]) .nextra-code pre {
+            background: rgba(193, 168, 124, 0.25) !important;
+            border: 1px solid rgba(193, 168, 124, 0.4) !important;
+            border-radius: 4px !important;
+          }
+
           /* Remove default footer background classes */
           html:not([data-theme="dark"]) footer._bg-gray-100,
           html:not([data-theme="dark"]) footer .nx-bg-gray-100,
