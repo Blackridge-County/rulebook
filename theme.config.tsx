@@ -22,7 +22,19 @@ function useHead() {
             min-height: 100vh;
           }
 
-          html:not([data-theme="dark"]) .nextra-nav-container,
+          html:not([data-theme="dark"]) .nextra-nav-container {
+            background: rgba(241, 233, 210, 0.8) !important;
+            backdrop-filter: blur(10px);
+            box-shadow: 0 2px 4px rgba(193, 168, 124, 0.2);
+          }
+
+          /* Remove default footer background classes */
+          html:not([data-theme="dark"]) footer._bg-gray-100,
+          html:not([data-theme="dark"]) footer .nx-bg-gray-100,
+          html:not([data-theme="dark"]) .nextra-footer ._bg-gray-100 {
+            background: transparent !important;
+          }
+
           html:not([data-theme="dark"]) footer {
             background: rgba(241, 233, 210, 0.8) !important;
             backdrop-filter: blur(10px);
@@ -43,6 +55,9 @@ function useHead() {
             border: 1px solid rgba(193, 168, 124, 0.2) !important;
             border-radius: 3px !important;
             padding: 0.25rem 0.5rem !important;
+            box-shadow: none !important;
+          }
+          html:not([data-theme="dark"]) .nextra-toc p {
             box-shadow: none !important;
           }
 
@@ -79,13 +94,48 @@ function useHead() {
             bottom: 0;
             background-image:
               /* Parchment texture overlay */
-              url('/images/parchment.png');
-            background-size: 400px 300px;
+              url('/images/parchment3.png');
+            background-size: auto;
             background-repeat: repeat;
             background-blend-mode: multiply;
             pointer-events: none;
             border-radius: 6px;
-            opacity: 0.15;
+            opacity: 0.2;
+          }
+
+          /* Horizontal rule styling for section dividers - light mode only */
+          html:not([data-theme="dark"]) .nx-container .nx-prose hr,
+          html:not([data-theme="dark"]) main hr {
+            border: none;
+            height: 3px;
+            background: linear-gradient(to right,
+              transparent,
+              rgba(193, 168, 124, 0.8) 20%,
+              rgba(139, 127, 90, 0.9) 50%,
+              rgba(193, 168, 124, 0.8) 80%,
+              transparent
+            );
+            margin: 2rem 0;
+            position: relative;
+            border-radius: 2px;
+            box-shadow:
+              0 1px 2px rgba(193, 168, 124, 0.4),
+              inset 0 1px 1px rgba(255, 255, 255, 0.3);
+          }
+
+          html:not([data-theme="dark"]) .nx-container .nx-prose hr::before,
+          html:not([data-theme="dark"]) main hr::before {
+            position: absolute;
+            left: 50%;
+            top: 50%;
+            transform: translate(-50%, -50%);
+            background: #F1E9D2;
+            color: rgba(139, 127, 90, 0.9);
+            font-size: 1.1rem;
+            padding: 0.2rem 0.4rem;
+            border-radius: 50%;
+            border: 2px solid rgba(193, 168, 124, 0.6);
+            box-shadow: 0 2px 4px rgba(193, 168, 124, 0.3);
           }
         `
       }} />
@@ -131,6 +181,9 @@ const config = {
   },
   sidebar: {
     defaultMenuCollapseLevel: 1,
+  },
+  themeSwitch: {
+    component: null,
   },
   navigation: false,
   feedback: {
